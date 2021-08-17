@@ -7,12 +7,16 @@ import datetime
 # doc.paragraphs[3].text = 'new text'
 # print(doc.paragraphs[3].text)
 # doc.save('cd1.docx')
-# i = 0
-# for x in doc.paragraphs[35].runs:
+# i = 0 test 
+# for x in doc.paragraphs[35].runs: achraf 
 
 #     print(i)
 #     print(x.text)
 #     i = i+1
+
+
+
+
 
 
 ################################
